@@ -1,6 +1,6 @@
 [package]
 name = "tca9539"
-version = "0.2.0"
+version = "0.2.1"
 description = "TCA9539 (also PCA9539) 16-Bit I2C I/O Expander with I2C Interface"
 authors = ["Robert Jördens <rj@quartiq.de>"]
 categories = ["embedded", "hardware-support", "no-std"]
